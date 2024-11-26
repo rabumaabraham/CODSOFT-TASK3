@@ -1,6 +1,6 @@
 # Password Generator CLI Application
 
-This is a fully functional Password Generator CLI Application built using python, during my python programming internship at CodSoft. This Password Generator CLI Application is a Python application that allows users to generate strong and random passwords based on their desired length and complexity. Users can specify whether they want a simple, medium, or strong password, and the program will generate one accordingly.
+This is a fully functional Password Generator CLI Application built using python, during my python programming internship at CodSoft. This Password Generator CLI Application allows users to generate strong and random passwords based on their desired length and complexity. Users can specify whether they want a simple, medium, or strong password, and the program will generate one accordingly.
 
 ## Table of Contents
 
