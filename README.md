@@ -45,13 +45,17 @@ The Password Generator is a Python application that allows users to generate str
 ## Example Usage
 
 Enter the desired length of the password: 12
+
 Enter the desired complexity (simple, medium, strong): strong
+
 Generated Password: qF@zH9!p7LzR
 
 Do you want to generate another password? (Y/N): Y
 
 Enter the desired length of the password: 8
+
 Enter the desired complexity (simple, medium, strong): medium
+
 Generated Password: A9bVf2Xz
 
 Do you want to generate another password? (Y/N): N
